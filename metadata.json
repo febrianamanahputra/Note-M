@@ -1,0 +1,6 @@
+{
+  "name": "Orchid Whisper Tasks",
+  "description": "A daily activity list with priority categories, drag & drop, and reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
